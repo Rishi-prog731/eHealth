@@ -1,14 +1,14 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional
-documentation, we greatly value feedback and contributions from our community.
+Thank you for your interest in contributing to my project. Whether it's a bug report, new feature, correction, or additional
+documentation, I greatly value feedback and contributions from my community.
 
 Please read through this document before submitting any issues or pull requests to ensure we have all the necessary
 information to effectively respond to your bug report or contribution.
 
 
 ## Security issue notifications
-If you discover a potential security issue in this project we ask that you notify us via our [Glitch](https://glitch.com/edit/#!/scribbleleap). Please do **not** create a public GitHub issue.
+If you discover a potential security issue in this project we ask that you notify me via my e-mail. Please do create a public GitHub issue if you see fit.
 
 
 ## Reporting Bugs/Feature Requests
@@ -27,7 +27,7 @@ reported the issue. Please try to include as much information as you can. Detail
 ## Contributing via Pull Requests
 Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure that:
 
-1. You are working against the latest source on the *glitch* branch; the master branch is solely for testing.
+1. You are working against the latest source on the *master* branch; any additional branches are solely for testing.
 2. You check existing open, and recently merged, pull requests to make sure someone else hasn't addressed the problem already.
 3. You open an issue to discuss any significant work - we would hate for your time to be wasted.
 
