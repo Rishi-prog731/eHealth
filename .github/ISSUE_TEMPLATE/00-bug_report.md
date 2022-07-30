@@ -19,7 +19,7 @@ problem.
 
 **Does the bug persist in the most recent commit?**
 
-We recommend using the latest commit in the glitch branch in your projects.
+We recommend using the latest commit in the master branch in your projects.
 
 **What operating system and version are you using?**
 
@@ -28,11 +28,11 @@ distribution as well.
 
 **What compiler and version are you using?**
 
-Please include console.log functions within your bug report.
+If the issue is text editor specific let us know here.
 
 **What assets are you using?**
 
-Please include glitch assets in the .glitch-assets.
+.venv file assets are provided. Package control is huge as many properties have been discontinued. Use our .venv file.
 
 **Additional context**
 
