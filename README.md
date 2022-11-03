@@ -84,6 +84,3 @@ Start files
 
 For support, email rishi.hhp@gmail.com
 
-
-![Logo](https://wizehive-assets.s3.amazonaws.com/transfer/img/62f30a62-65d0-4ea5-86b4-2d3d0a000130.png?AWSAccessKeyId=AKIAJ6FDLNEKQD5IFRQA&Expires=1661135423&Signature=XgY0NFu17ATNYWi7N9yWZMv3BFA%3D)
-
