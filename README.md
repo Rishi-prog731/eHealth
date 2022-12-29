@@ -8,7 +8,7 @@ eHealth has 4 main uses. The first one is a health assistant, which is the app's
  - [NLTK](https://github.com/nltk/nltk)
  - [TensorFlow](https://github.com/tensorflow/tensorflow)
  - [OpenCV](https://github.com/opencv/opencv)
-
+ - [Face Recognition](https://github.com/ageitgey/face_recognition)
 
 ## Authors
 
