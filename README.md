@@ -77,6 +77,10 @@ Start files
   python fileName.py
 ```
 
+## Slite
+
+https://rishihariharaprasad.slite.page/p/mgBFn1AsE2KQoP/eHealth-Project-Outline
+
 
 ## Support
 
