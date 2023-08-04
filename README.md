@@ -81,7 +81,9 @@ Start files
 
 https://rishihariharaprasad.slite.page/p/mgBFn1AsE2KQoP/eHealth-Project-Outline
 
+## Open Source
 
+Currently, the code for eHealth isn't public. I am just using this repository as an archive for working TensorFlow models. I will eventually publish eHealth's full program code in this repo.
 ## Support
 
 For support, email rishi.hhp@gmail.com
